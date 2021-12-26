@@ -1,0 +1,4 @@
+﻿  АиСД3.cpp
+C:\Users\n6910\source\repos\АиСД3\АиСД3\tree.h(228,9): warning C4101: max_elem: неиспользованная локальная переменная
+C:\Users\n6910\source\repos\АиСД3\АиСД3\tree.h(80): warning C4715: bft_iterator::next: значение возвращается не при всех путях выполнения
+  АиСД3.vcxproj -> C:\Users\n6910\source\repos\АиСД3\Debug\АиСД3.exe

@@ -1,0 +1,9 @@
+﻿  UnitTest1.cpp
+C:\Users\n6910\source\repos\КурсоваяРабота\КурсоваяРабота\kursovaya.h(264,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\n6910\source\repos\КурсоваяРабота\КурсоваяРабота\kursovaya.h(438,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\n6910\source\repos\КурсоваяРабота\КурсоваяРабота\kursovaya.h(509,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\n6910\source\repos\КурсоваяРабота\КурсоваяРабота\kursovaya.h(636,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\n6910\source\repos\КурсоваяРабота\КурсоваяРабота\kursovaya.h(630): warning C4715: correct: значение возвращается не при всех путях выполнения
+C:\Users\n6910\source\repos\КурсоваяРабота\КурсоваяРабота\kursovaya.h(101): warning C4715: Stack::getlast: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\n6910\source\repos\КурсоваяРабота\Debug\UnitTest1.lib и объект C:\Users\n6910\source\repos\КурсоваяРабота\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\n6910\source\repos\КурсоваяРабота\Debug\UnitTest1.dll
